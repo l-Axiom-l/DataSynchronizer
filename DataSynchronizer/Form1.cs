@@ -17,7 +17,6 @@ namespace DataSynchronizer
         string OriginLocation;
 
         List<string> CopyList = new List<string>();
-        copyDelegate CopyDelegate;
 
         DateTime LastDate;
 
